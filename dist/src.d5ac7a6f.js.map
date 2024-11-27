@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/index.js"],"names":["document","getElementById","innerText"],"mappings":";AAAAA,SAASC,eAAe,OAAOC,UAAY","file":"src.d5ac7a6f.js","sourceRoot":"..","sourcesContent":["document.getElementById('app').innerText = 'Hello, world!';"]}
